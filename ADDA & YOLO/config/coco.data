@@ -1,0 +1,7 @@
+classes=7
+source_train=./data/source_train.txt
+target_train=./data/target_train.txt
+target_val=./data/target_val.txt
+source_val=./data/source_val.txt
+names=config/coco.names
+backup=backup/
