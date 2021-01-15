@@ -2,7 +2,7 @@
 
 Part - 1 : YOLOv3 (Short for You Only Look Once)
 
-YOLOv3 is an Object Detection algorithm which is (for now) state-of-the-art framework for detecting objects in images/videos either in static or real-time conditions.
+YOLOv3 is an Object Detection algorithm which is state-of-the-art (for now) framework for detecting objects in images/videos either in static or real-time conditions.
 
 Object Detection comes under Computer Vision domain where the model has to find objects inside the image (rather than just classifying the image). There could be multiple objects in an image of varying sizes.
 
