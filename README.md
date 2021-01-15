@@ -21,6 +21,6 @@ YOLOv3 is a 106 layer Fully Convolutional Neural Network with 75 Convolutional L
 
 It takes use of several other concepts such as Anchor Boxes, Non-Max Suppression, Intersection over Union which needs to be understood along with how the algorithm works. Three scales (13x13, 26x26, 52x52) ensure objects of different sizes get localized.
 
-<mark>The YOLO version uploaded in this repository is modified based on the dataset it had to transfer learning to (from COCO dataset). Apart from changes in model detection parameters, loss was modified to penalize False Positives and batches in training were stratified such that all classes are represented equally in a single batch<\mark>
+<mark>The YOLO version uploaded in this repository is modified based on the dataset it had to transfer learning to (from COCO dataset). Apart from changes in model detection parameters, loss was modified to penalize False Positives and batches in training were stratified such that all classes are represented equally in a single batch</mark>
 
 
