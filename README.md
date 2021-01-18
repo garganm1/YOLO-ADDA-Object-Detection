@@ -11,7 +11,7 @@ Object Detection comes under Computer Vision domain where the model has to find 
 Check out following article to get a grasp of what YOLO is and how it evolved to YOLOv3 with more technical breakthroughs made in the algorithm
 https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088
 
-##About YOLOv3:
+## About YOLOv3:
 
 YOLOv3 is a 106 layer Fully Convolutional Neural Network with 75 Convolutional Layers (popularly called Darknet-53 architecture). It contains Shortcut, Routing & YOLO Detection layers apart from the Convolutional Layers
 
