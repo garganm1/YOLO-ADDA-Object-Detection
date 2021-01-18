@@ -21,8 +21,6 @@ The YOLO version uploaded in this repository is modified based on the dataset it
 
 It will also store weights and model losses, compute Recall/Precision/F1-score metrics on Validation Set at every epoch of training. Gives you flexibility to start-off training where you left it and also compute the metrics for any weight and dataset(Validation/Testing) provided.
 
-<br>
-</br>
 
 # ADDA & YOLO
 
